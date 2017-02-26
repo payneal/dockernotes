@@ -1,0 +1,2 @@
+# dockernotes
+help understanding docker
